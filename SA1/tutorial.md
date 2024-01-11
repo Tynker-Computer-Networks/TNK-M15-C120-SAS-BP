@@ -1,6 +1,7 @@
 Attach the Files
 ======================
 In this activity, you will attach the files to an email.
+
 <img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10925519/C120_SA1.gif" width = "50%" height = "auto">
 
 
