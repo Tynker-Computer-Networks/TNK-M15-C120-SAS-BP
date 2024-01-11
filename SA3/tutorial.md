@@ -2,7 +2,7 @@ Add Timer for Recurring Emails
 ======================
 In this activity, you will add a timer to send emails after specific intervals.
 
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10940642/C120_SA3_new.gif" width = "100%" height = "50%">
+<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10940642/C120_SA3_new.gif" width = "50%" height = "auto">
 
 
 
